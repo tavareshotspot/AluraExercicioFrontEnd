@@ -202,3 +202,11 @@ body {
 .lista__item:hover {
     color: var(--botao-azul-efeito);
 }
+
+.footer {
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 20px;
+    font-size: 14px;
+    color: #333;
+}
