@@ -22,7 +22,7 @@ body {
 }
 
 .principal {
-    background-image: url("joaozinho(meme).png");
+    background-image: url("img/Background.png");
     background-size: contain;
     background-repeat: no-repeat;
     align-items: center;
@@ -212,14 +212,6 @@ body {
 }
 
 @media screen and (max-width: 768px) {
-    body {
-        background-image: url("joaozinho(meme).png");
-        background-size: contain;
-        background-repeat: no-repeat;
-        align-items: center;
-        text-align: center;
-    }
-    
     .container {
         display: block;
         background-image: none;
