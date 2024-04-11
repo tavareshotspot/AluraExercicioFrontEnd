@@ -212,6 +212,14 @@ body {
 }
 
 @media screen and (max-width: 768px) {
+    body {
+        background-image: url("img/joaozinho(meme).png");
+        background-size: contain;
+        background-repeat: no-repeat;
+        align-items: center;
+        text-align: center;
+    }
+    
     .container {
         display: block;
         background-image: none;
